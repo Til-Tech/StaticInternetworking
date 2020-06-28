@@ -1,0 +1,1 @@
+This Website is just based on html and css and is the first that I have created...its pretty bad xD
